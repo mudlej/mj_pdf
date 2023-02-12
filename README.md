@@ -7,15 +7,17 @@ MJ PDF is a fast, minimalist, powerful and totally free PDF viewer made by [Mudl
 # Download
 - [x] [Play Store](https://play.google.com/store/apps/details?id=com.gitlab.mudlej.MjPdfReader)
 - [x] [IzzyOnDroid Repo](https://apt.izzysoft.de/fdroid/index/apk/com.gitlab.mudlej.MjPdfReader)
-- [x] [Direct Download (V1.4.3+)](https://gitlab.com/mudlej_android/mj_pdf_reader/-/raw/V1.4.3+-stable/app/release/app-release.apk)
+- [ ] [Direct Download (V2.0.1)](https://gitlab.com/mudlej_android/mj_pdf_reader/-/raw/V2.0.1+-stable/app/release/app-release.apk)
+- [x] [Github Page for issues](https://github.com/mudlej/mj_pdf/)
 - [ ] F-droid (no progress yet)
 
 
 # TABLE OF CONTENTS
 * [MJ PDF](https://gitlab.com/mudlej_android/mj_pdf_reader#mj-pdf-reader)
 * [Download](https://gitlab.com/mudlej_android/mj_pdf_reader#download)
-* [Source Code](https://gitlab.com/mudlej_android/mj_pdf_reader)
+* [Source Code](https://gitlab.com/mudlej_android/mj_pdf_reader) 
 * [Screenshots](https://gitlab.com/mudlej_android/mj_pdf_reader#screenshots)
+* [Github Page](https://gitlab.com/mudlej_android/mj_pdf_reader#github-page)
 * [More Screenshots](https://gitlab.com/mudlej_android/mj_pdf_reader/-/tree/main/screenshots)
 * [MJ PDF Features](https://gitlab.com/mudlej_android/mj_pdf_reader#mj-pdf-reader-features)
 * [Permissions and privacy](https://gitlab.com/mudlej_android/mj_pdf_reader#permissions-and-privacy)
@@ -47,6 +49,11 @@ MJ PDF is a fast, minimalist, powerful and totally free PDF viewer made by [Mudl
 | Light Mode | Dark Mode | Main Menu |
 |:-:|:-:|:-:|
 | ![Light Mode](https://gitlab.com/mudlej_android/mj_pdf_reader/-/raw/main/screenshots/light_framed.png) | ![Dark Mode](https://gitlab.com/mudlej_android/mj_pdf_reader/-/raw/main/screenshots/dark_framed.png) | ![Main Menu](https://gitlab.com/mudlej_android/mj_pdf_reader/-/raw/main/screenshots/light_main_menu_framed.png) |
+
+
+## Github Page
+The codebase is hosted on [Gitlab](https://gitlab.com/mudlej_android/mj_pdf_reader). But I opened a page in Github for issues like requests, bug reports...
+[Github page link](https://github.com/mudlej/mj_pdf/).
 
 
 ## Permissions and privacy
