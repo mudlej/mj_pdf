@@ -21,7 +21,7 @@ MJ PDF is a fast, minimalist, powerful and totally free PDF viewer made by [Mudl
 * [MJ PDF Features](https://gitlab.com/mudlej_android/mj_pdf_reader#mj-pdf-reader-features)
 * [Permissions and privacy](https://gitlab.com/mudlej_android/mj_pdf_reader#permissions-and-privacy)
 * [MJ PDF V2.0.0 Release Notes](https://gitlab.com/mudlej_android/mj_pdf_reader#mj-pdf-v200-release-notes)
-* [MJ PDF TO-DO List](https://gitlab.com/mudlej_android/mj_pdf_reader#mj-pdf-to-do-list)
+* [MJ PDF TO-DO List](https://gitlab.com/mudlej_android/mj_pdf_reader/-/blob/main/todo.md)
 * [What is different from PDF Viewer Plus](https://gitlab.com/mudlej_android/mj_pdf_reader#what-is-different-from-pdf-viewer-plus)
 * [Underlying Libraries](https://gitlab.com/mudlej_android/mj_pdf_reader#underlying-libraries)
 * [Authors and acknowledgment](https://gitlab.com/mudlej_android/mj_pdf_reader#authors-and-acknowledgment)
@@ -83,10 +83,6 @@ The following permissions are required to provide specific features in the app:
 * Fixed not being able to reset the zoom to a page-width level by double tapping
 * Fixed few common crashes.
 * Fixed no stopping auto scrolling when the user exit the Full Screen Mode.
-
-
-## MJ PDF TO-DO List
-[See todo](https://gitlab.com/mudlej_android/mj_pdf_reader/-/blob/main/todo.md)
 
 
 ## What is different from PDF Viewer Plus
