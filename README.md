@@ -8,7 +8,6 @@ MJ PDF is a fast, minimalist, powerful and totally free PDF viewer made by [Mudl
 - [x] [Play Store](https://play.google.com/store/apps/details?id=com.gitlab.mudlej.MjPdfReader)
 - [x] [IzzyOnDroid Repo](https://apt.izzysoft.de/fdroid/index/apk/com.gitlab.mudlej.MjPdfReader)
 - [ ] [Direct Download (V2.0.1)](https://gitlab.com/mudlej_android/mj_pdf_reader/-/raw/V2.0.1+-stable/app/release/app-release.apk)
-- [x] [Github Page for issues](https://github.com/mudlej/mj_pdf/)
 - [ ] F-droid (no progress yet)
 
 
