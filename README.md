@@ -7,15 +7,15 @@ MJ PDF is a fast, minimalist, powerful and totally free PDF viewer made by [Mudl
 # Download & Links
 - [x] [Play Store](https://play.google.com/store/apps/details?id=com.gitlab.mudlej.MjPdfReader)
 - [x] [IzzyOnDroid Repo](https://apt.izzysoft.de/fdroid/index/apk/com.gitlab.mudlej.MjPdfReader)
-- [x] [Direct Download (V2.0.1)](https://archive.org/details/mj-pdf-v2-0-1)
+- [x] [Direct Download (V2.1.2)](https://archive.org/details/mj-pdf-v2-1-2-apk)
 - [ ] F-droid (still trying)
 - [x] [Github Page for issues](https://github.com/mudlej/mj_pdf/)
+- [x] [Source code on Gitlab](https://gitlab.com/mudlej_android/mj_pdf_reader)
 
 
 # TABLE OF CONTENTS
 * [MJ PDF](#mj-pdf)
 * [Download & Links](#download--links)
-* [Source Code](https://gitlab.com/mudlej_android/mj_pdf_reader)
 * [Screenshots](#screenshots)
 * [Github Page](#github-page)
 * [More Screenshots](https://gitlab.com/mudlej_android/mj_pdf_reader/-/tree/main/screenshots)
@@ -108,15 +108,16 @@ I Forked [PdfiumAndroid](https://github.com/barteksc/PdfiumAndroid) to update it
 And Forked [ AndroidPdfViewer](https://github.com/barteksc/AndroidPdfViewer) to add features (like extracting PDF text) and modify some of its behavior (like scroll handle).
 
 * Updated PDFium to 112.0.5579.0 (in v2.0.2) ([source code](https://pdfium.googlesource.com/pdfium/+/refs/heads/main), [building script](https://github.com/bblanchon/pdfium-binaries))
-* Updated libpng to 1.6.37 ([source code](https://sourceforge.net/projects/libpng/files/libpng16/1.6.37/), [building script](https://github.com/kota-kota/libpng-build))
-* Updated Freetype to 2.12.1 ([source code](https://github.com/freetype/freetype), [building script](https://github.com/kota-kota/freetype-build))
+* Updated libpng to 1.6.39 ([source code](https://sourceforge.net/projects/libpng/files/libpng16/1.6.37/), [building script](https://gitlab.com/mudlej_android/mj_pdf_reader/-/blob/main/build_dependencies/libpng.py))
+* Updated Freetype to 2.13.0 ([source code](https://github.com/freetype/freetype), [building script](https://gitlab.com/mudlej_android/mj_pdf_reader/-/blob/main/build_dependencies/freetype2.py))
 
 
 ## Authors and acknowledgment
 - MJ PDF is made by [Mudlej](https://gitlab.com/mudlej).
 - The original app (PDF View Plus) was made by Gokul Swaminathan ([@JavaCafe01](https://github.com/JavaCafe01)).
 - [@barteksc](https://github.com/barteksc), made the libraries that MJ PDF uses to render PDFs. 
-- Credits to (@Derekelkins)'s pull request for adding the ability to remember last opened page.
+- Credits to (@Derekelkins)'s pull request on Pdf Viewer Plus for adding the ability to remember last opened page.
+- Big thanks to [Bnyro](https://gitlab.com/Bnyro) (LibreTube's dev) for helping me with the colors and how to migrate to M3. (MJ PDF v2.1)
 
 ## License
 MJ PDF uses the GPLv3 license, the original app (PDF View Plus) was under MIT license
